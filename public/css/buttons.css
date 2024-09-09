@@ -1,0 +1,49 @@
+.btn-subscribe {
+    background-color: #6D2E46;
+    border-color: #6D2E46;
+    color: #ffffff;
+}
+.btn-subscribe:hover {
+    background-color: #6D2E46;
+    border-color: #6D2E46;
+    color: #ffffff;
+}
+.form-subscribe {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.form-subscribe .form-control {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.form-subscribe .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.newsletter-section {
+    background-color: #dfa468d6;
+}
+.newsletter-heading {
+    color: #343a40;
+}
+
+
+.btn-custom-yellow {
+    color: #D27F2D; /* Dark yellow/brown color for text */
+    background-color: transparent;
+    border: 2px solid #D27F2D; /* Gold color for border */
+    border-radius: 25px; /* Rounded corners */
+    padding: 10px 20px; /* Vertical and horizontal padding */
+    font-size: 16px;
+    transition: all 0.3s ease;
+    white-space: nowrap; /* Prevent text from wrapping */
+    min-width: 200px; /* Minimum width to ensure button isn't too narrow */
+    display: inline-block; /* Allow button to grow with content */
+}
+
+.btn-custom-yellow:hover {
+    background-color: #D27F2D; /* Gold color on hover */
+    color: #f6f6f6; /* Keep text color the same on hover */
+}
+
+/* form css */

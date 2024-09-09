@@ -1,0 +1,13 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Override Bootstrap variables
+$primary: #D27F2D;
+$secondary: #2B2118;
+$warning: #DD7907;
+//$secondary: #f7f3e3;
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
